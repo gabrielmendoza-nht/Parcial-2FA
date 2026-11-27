@@ -1,4 +1,5 @@
 # Parcial-2FA
+#Estudiantes: Gabriel Mendoza Samuel Orocú
 # Sistema de Autenticación 2FA en PHP (POO)
 
 Proyecto de autenticación con verificación en dos pasos (2FA) mediante código QR (`Sonata\GoogleAuthenticator`), programación orientada a objetos (POO), control de sesiones, protección Anti-CSRF, sanitización estática, hashing seguro de contraseñas y gestión de base de datos con privilegios mínimos en MySQL.
